@@ -1,0 +1,47 @@
+# Dependências do Node.js
+/node_modules
+/npm-debug.log
+/yarn-error.log
+/yarn.lock
+/package-lock.json
+
+# Arquivos de build e distribuição
+/dist
+/.angular
+/e2e/.cache
+/tmp
+/out-tsc
+
+# Arquivos de configuração do ambiente
+/.env
+/.env.local
+/.env.*.local
+
+# Arquivos de teste
+/coverage
+/test-results
+/test-report.xml
+
+# Arquivos do editor e IDE
+/.idea
+/.vscode
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
+logs
+*.log.*
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.swo
+
+# Outros
+.angular.json.bak
+*.tsbuildinfo
